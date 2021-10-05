@@ -1,0 +1,16 @@
+/home/thiago/prototipo_programacao/dotnet/RevisaoCompleta/DIO.Series/bin/Debug/net5.0/DIO.Series
+/home/thiago/prototipo_programacao/dotnet/RevisaoCompleta/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/home/thiago/prototipo_programacao/dotnet/RevisaoCompleta/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/home/thiago/prototipo_programacao/dotnet/RevisaoCompleta/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/home/thiago/prototipo_programacao/dotnet/RevisaoCompleta/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/home/thiago/prototipo_programacao/dotnet/RevisaoCompleta/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/home/thiago/prototipo_programacao/dotnet/RevisaoCompleta/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/home/thiago/prototipo_programacao/dotnet/RevisaoCompleta/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.AssemblyReference.cache
+/home/thiago/prototipo_programacao/dotnet/RevisaoCompleta/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/thiago/prototipo_programacao/dotnet/RevisaoCompleta/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/home/thiago/prototipo_programacao/dotnet/RevisaoCompleta/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/home/thiago/prototipo_programacao/dotnet/RevisaoCompleta/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/thiago/prototipo_programacao/dotnet/RevisaoCompleta/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/home/thiago/prototipo_programacao/dotnet/RevisaoCompleta/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/home/thiago/prototipo_programacao/dotnet/RevisaoCompleta/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/home/thiago/prototipo_programacao/dotnet/RevisaoCompleta/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
